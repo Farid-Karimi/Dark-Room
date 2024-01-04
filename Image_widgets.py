@@ -7,7 +7,7 @@ class ImageImport(ctk.CTkFrame) :
         super().__init__(master = parent)
         self.grid(column = 0, columnspan = 2, row = 0, sticky = 'nsew')
         self.import_func = import_func
-        ctk.CTkButton(self, text = 'open image', command = self.open_dialog).pack(expand = True)
+        ctk.CTkButton(self, text = 'open image', command = self.open_dialog, hover_color=HOVER, fg_color=BLUE).pack(expand = True)
     def open_dialog(self):
         path = filedialog.askopenfile().name
         self.import_func(path)
