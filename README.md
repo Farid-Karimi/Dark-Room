@@ -1,6 +1,9 @@
 # Dark Room: Photo Editor using Pillow and Tkinter
 
-Dark Room is a Python-based photo editing tool that leverages the powerful libraries Pillow and Tkinter. It allows users to enhance their images by applying a range of editing features. Whether you're a professional photographer or a hobbyist, Dark Room provides the tools you need to transform your photos into captivating masterpieces.
+Dark Room is a Python-based photo editing tool that leverages the powerful libraries Pillow and Tkinter. It allows users to enhance their images by applying a range of editing features. Dark Room provides the tools you need to transform your photos into captivating masterpieces.
+
+![video](https://github.com/Farid-Karimi/Dark-Room/assets/118434072/29243df9-5c7c-4792-973d-73f0cbf463ed)
+
 
 ## Features
 
@@ -20,7 +23,7 @@ Dark Room offers the following editing features:
 
 ## Installation
 
-To use Dark Room,you can either download the .exe from release tab or follow these steps:
+To use Dark Room, you can either download the `.exe` from release tab or follow these steps:
 
 1. Clone the Dark Room repository from GitHub:
    ```
